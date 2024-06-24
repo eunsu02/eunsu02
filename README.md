@@ -91,6 +91,16 @@
   </div>
 
 </div>
-
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏢 경험</h2>
+  <br>
+  <div>
+    <h3>💼 인턴 </h3>
+    <p><strong>기간:</strong> 2024년 03월 - 2024년 6월 (4개월)</p>
+    <p><strong>역할:</strong> 개발팀 인턴</p>
+    <p> [BE] Django를 이용한 신규 기능 개발, 기존 기능 개선 작업에 참여하였습니다. </p>
+    <p> [DE] Django, FastAPI, Lambda를 이용한 신규 SNS 플랫폼의 데이터 수집부,저장부를 구축하였습니다.</p>
+  </div>
+</div>
 
     
