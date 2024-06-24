@@ -95,7 +95,7 @@
 
 </div>
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏢 경험</h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏢 experience</h2>
   <br>
   <div>
     <h3>💼 인턴 </h3>
