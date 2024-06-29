@@ -50,7 +50,7 @@
 </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-        <a href="https://common-clownfish-a29.notion.site/03b97dbf4dda453fb1079d796c305e8b?v=0d696722f2a6442ebd1acdfb64dffe35&pvs=4">
+        <a href="https://common-clownfish-a29.notion.site/de71315baf0c449fb0ad7c35e5064c9b?pvs=4">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion Icon" style="width:50px;height:50px;">
 </a>
     <div align= "center"> <a href=https://velog.io/@eunsu02> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@eunsu02"> </a>
