@@ -6,7 +6,11 @@
       <th style="text-align: left; padding: 8px; border: 1px solid #ddd;">기간</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #ddd;">설명</th>
     </tr>
-
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 13기 </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2023.12 ~ ing </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">Back-End 파트장 </td>
+    </tr>
   <tr>
     <td style="padding: 8px; border: 1px solid #ddd;">AUSG(AWSKRUG University Student Group)</td>
     <td style="padding: 8px; border: 1px solid #ddd;">2024.07 ~ ing </td>
@@ -23,8 +27,8 @@
     </td>
   </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 12기 운영진</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">2023.12 ~ ing </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 12기</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2023.12 ~ 2023.1ing </td>
       <td style="padding: 8px; border: 1px solid #ddd;">Back-End 파트 운영진 </td>
     </tr>
     <tr>
@@ -33,7 +37,7 @@
       <td style="padding: 8px; border: 1px solid #ddd;">홈 페이지 및 포인트 적립 / 쇼핑몰 제작</td>
     </tr>
     <tr>
-      <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 11기 아기사자</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 11기</td>
       <td style="padding: 8px; border: 1px solid #ddd;">2023.03 ~ 2023.11 </td>
       <td style="padding: 8px; border: 1px solid #ddd;">Back-End 파트 아기사자</td>
     </tr>
