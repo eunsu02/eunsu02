@@ -55,6 +55,7 @@
 ## 🔆 Projects
 | 기간 | 프로젝트명 | 정보 | 비고 |
 | ------------ | ------------- | ------------- | ------------- |
+| 2025.02 ~ 2024.05 | [루카우스](https://github.com/LUCAUS2025/LUCAUS-server) | 중앙대 루카우스 축제 웹사이트 |  |
 | 2024.07 ~ 2024.08 | [글로우테일즈](https://github.com/GlowTales/GlowTales-Server) | AI 동화 생성/퀴즈를 통한 학습 서비스 | 공개 SW 개발자 대회 |
 | 2023.11 ~ 2024.01 | [중앙대 멋사 스타트라이언](https://github.com/cau-likelion-org/startlion-server) | 동아리 리크루팅을 위한 서비스 | 사이드프로젝트 중하하 |
 | 2023.11 ~ 2023.12 | [학교 앞 탕후루](https://github.com/huru-huru/huruhuru-Client) | 본격 2000년대 모음 퀴즈/테스트 서비스 | 멋쟁이사자처럼 11기 중커톤 |
@@ -85,7 +86,6 @@
     </div>
     <!-- 기타 -->
     <div style="margin: 0 auto; text-align: center;" align="left">
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">
     </div>
     <!-- 도구 -->
