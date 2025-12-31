@@ -8,12 +8,12 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 13기 </td>
-      <td style="padding: 8px; border: 1px solid #ddd;">2023.12 ~ ing </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2024.12 ~ 2025.12 </td>
       <td style="padding: 8px; border: 1px solid #ddd;">Back-End 파트장 </td>
     </tr>
   <tr>
     <td style="padding: 8px; border: 1px solid #ddd;">AUSG(AWSKRUG University Student Group)</td>
-    <td style="padding: 8px; border: 1px solid #ddd;">2024.07 ~ ing </td>
+    <td style="padding: 8px; border: 1px solid #ddd;">2024.07 ~ 2025.07 </td>
     <td style="padding: 8px; border: 1px solid #ddd;">8기 회원</td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@
   </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 12기</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">2023.12 ~ 2023.1ing </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2023.12 ~ 2023.01 </td>
       <td style="padding: 8px; border: 1px solid #ddd;">Back-End 파트 운영진 </td>
     </tr>
     <tr>
@@ -50,7 +50,6 @@
 </div>
 
     
-[![eunsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunsu02&hide=stars&theme=radical)](https://github.com/eunsu02/github-readme-stats)<br>
 
 ## 🔆 Projects
 | 기간 | 프로젝트명 | 정보 | 비고 |
