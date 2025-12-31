@@ -7,6 +7,11 @@
       <th style="text-align: left; padding: 8px; border: 1px solid #ddd;">설명</th>
     </tr>
     <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">신한투자증권 프로 디지털 아카데미</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2025.12 ~</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">7기 회원</td>
+    </tr>
+    <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 13기</td>
       <td style="padding: 8px; border: 1px solid #ddd;">2024.12 ~ 2025.12</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Back-End 파트장</td>
