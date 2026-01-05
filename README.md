@@ -1,4 +1,66 @@
 <div align="left">
+  <h1>안녕하세요 👋</h1>
+
+<p><strong>INFJ</strong></p>
+
+![images-14](https://github.com/user-attachments/assets/a167a100-b2dc-413c-95c6-ff261514dc3b)
+
+
+<h2>안정성과 성능으로 신뢰를 만드는 백엔드 개발자</h2>
+<p>개발을 할 때 가장 행복한 사람입니다.</p>
+
+<hr />
+
+<h2>🚀 요즘 특히 관심 있는 주제</h2>
+
+<ul>
+  <li>
+    <strong>대규모 트래픽에서의 가용성 & 성능 관리</strong><br />
+    장애에 강한 구조, 무중단 운영, 지표 기반 모니터링과 성능 튜닝에 관심이 많습니다.
+  </li>
+  <br />
+  <li>
+    <strong>MSA 환경에서의 데이터 정합성</strong><br />
+    <em>비즈니스 요구에 맞는 정합성 수준</em>을 찾는 방향에 고민하고 있습니다.
+  </li>
+</ul>
+
+<hr />
+
+<h2>💡 PR 요약</h2>
+
+<ol>
+  <li>
+    <strong>고트래픽/운영 대응 경험</strong><br />
+    로드 밸런싱, 오토 스케일링, 캐시 전략 적용 경험이 있으며,<br />
+    AWS WAF, IP Set 등을 활용해 보안까지 고려한 인프라 설계를 경험했습니다.<br />
+    → <strong>운영/성능/보안까지 고려된 높은 퀄리티의 서비스</strong>를 만들 수 있습니다.
+  </li>
+  <br />
+  <li>
+    <strong>도메인 지식</strong><br />
+    주식 투자 경험 + 소프트/경영/사회 복수전공으로<br />
+    비즈니스와 사람의 문제를 함께 바라봅니다.
+  </li>
+  <br />
+  <li>
+    <strong>“구현은 제약이 아니다”</strong><br />
+    여러 프로젝트와 스타트업에서 백엔드 개발을 담당했습니다.<br />
+    구현이 불가능한지부터 고민하지 않습니다.<br />
+    <em>비즈니스 아이디어와 페인포인트 해결</em>을 우선으로 생각하고,<br />
+    개발은 그것을 실현하는 도구라고 생각합니다.
+  </li>
+  <br />
+  <li>
+    <strong>프론트 친화적 백엔드</strong><br />
+    협업을 중요하게 생각하며, API 설계/문서화/응답 구조를 팀원 중심으로 설계합니다.<br />
+    일정 관리와 커뮤니케이션을 통해 팀이 더 빠르게 나아가도록 돕습니다.
+  </li>
+</ol>
+
+<hr />
+
+  
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏷️ Experience</h2>
   <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
     <tr style="background-color: #f2f2f2;">
