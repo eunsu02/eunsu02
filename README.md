@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">2026.01 ~ 2026.02</td>
-      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://github.com/LUCAUS2025/LUCAUS-server">동시성 제어 및 장애 복구 아키텍처</a></td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://github.com/eunsu02/transfer-concurrency-engine">동시성 제어 및 장애 복구 아키텍처</a></td>
       <td style="padding: 8px; border: 1px solid #ddd;">동시성 제어 및 장애 복구 아키텍처</td>
       <td style="padding: 8px; border: 1px solid #ddd;"></td>
     </tr>
