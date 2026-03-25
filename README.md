@@ -7,6 +7,16 @@
       <th style="text-align: left; padding: 8px; border: 1px solid #ddd;">설명</th>
     </tr>
     <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">삼성청년SW·AI아카데미(SSAFY,싸피)</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2026.01 ~ ing</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">15기 자바 전공자반</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">신한투자증권 프로디지털아카데미</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2025.12 ~ 2026.01</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">7기</td>
+    </tr>
+    <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교 멋쟁이사자처럼 13기</td>
       <td style="padding: 8px; border: 1px solid #ddd;">2024.12 ~ 2025.12</td>
       <td style="padding: 8px; border: 1px solid #ddd;">Back-End 파트장</td>
@@ -43,7 +53,7 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">중앙대학교</td>
-      <td style="padding: 8px; border: 1px solid #ddd;">2021.03 ~ ing</td>
+      <td style="padding: 8px; border: 1px solid #ddd;">2021.03 ~ 2026.02</td>
       <td style="padding: 8px; border: 1px solid #ddd;">사회학, 컴퓨터공학, 경영학</td>
     </tr>
   </table>
@@ -55,6 +65,12 @@
       <th style="text-align: left; padding: 8px; border: 1px solid #ddd;">프로젝트명</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #ddd;">정보</th>
       <th style="text-align: left; padding: 8px; border: 1px solid #ddd;">비고</th>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">2026.01 ~ 2026.02</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"><a href="https://github.com/LUCAUS2025/LUCAUS-server">동시성 제어 및 장애 복구 아키텍처</a></td>
+      <td style="padding: 8px; border: 1px solid #ddd;">동시성 제어 및 장애 복구 아키텍처</td>
+      <td style="padding: 8px; border: 1px solid #ddd;"></td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #ddd;">2025.02 ~ 2024.05</td>
